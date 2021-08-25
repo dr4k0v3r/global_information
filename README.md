@@ -16,7 +16,8 @@
     please note that chromedriver version must support the chrome version  
       
 ## how to install geckodriver
-  #### 1- firefox is default installed in allmost all linux distrebutions so no need to manuall install
+  #### 1- firefox install
+    is default installed in allmost all linux distrebutions so no need to manuall install
   #### 2- install geckodriver
     you can download geckodriver from here https://github.com/mozilla/geckodriver/releases
     extract geckodriver 
